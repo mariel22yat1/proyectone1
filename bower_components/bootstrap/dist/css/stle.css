@@ -4,6 +4,9 @@
 .footer{
   padding: 20px 0;
 }
+body{
+  padding-top: 70px; 
+}
 html{
   position: relative;
   min-height: 100%;
@@ -21,3 +24,7 @@ body{
   color:#efefef;
   background:#333;
 }
+.footer a{
+color: #9af7fe;
+}
+@meia only
